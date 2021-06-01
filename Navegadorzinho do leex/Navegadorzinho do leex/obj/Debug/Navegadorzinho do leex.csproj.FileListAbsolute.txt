@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\obj\Debug\Navegadorzinho do leex.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\obj\Debug\Navegadorzinho_do_leex.Form1.resources
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\obj\Debug\Navegadorzinho_do_leex.Properties.Resources.resources
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\obj\Debug\Navegadorzinho do leex.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\obj\Debug\Navegadorzinho do leex.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\bin\Debug\Navegadorzinho do leex.exe.config
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\bin\Debug\Navegadorzinho do leex.exe
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\bin\Debug\Navegadorzinho do leex.pdb
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\obj\Debug\Navegadorzinho do leex.exe
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\obj\Debug\Navegadorzinho do leex.pdb
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\bin\Debug\Navegadorzinho do leex.exe.manifest
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\bin\Debug\Navegadorzinho do leex.application
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\obj\Debug\Navegadorzinho do leex.exe.manifest
+C:\Users\Alex\source\repos\Navegadorzinho do leex\Navegadorzinho do leex\obj\Debug\Navegadorzinho do leex.application
